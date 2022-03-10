@@ -16,3 +16,6 @@ Some RoadMap Goals:
 Phase 2 Looks
 
 To be implemented in React and will continue when done stage 4 or 5
+
+
+The current Scheduling Functionality is located within MainScheduler.py
