@@ -14,5 +14,5 @@ Some RoadMap Goals:
   5:  Finish Scheduling Algorithm
   
 Phase 2 Looks
-To be implemented in React
-Will continue when done stage 4 or 5
+
+To be implemented in React and will continue when done stage 4 or 5
